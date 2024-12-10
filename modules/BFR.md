@@ -1,25 +1,27 @@
-# 📘 **Module PFR (Portail Fractal de Résistance)**
+# 📘 **Module BFR (Bouclier Fractal Renforcé)**
 
 ---
 
 ## 🔹 **Présentation**
-Le **Portail Fractal de Résistance (PFR)** est un **système de stabilisation dynamique des flux fractals**.  
-Il agit comme un **filtre de résistance**, bloquant les flux perturbateurs tout en **stabilisant les flux légitimes**.  
-Il est particulièrement utile pour **réduire la résonance excessive** des flux chaotiques.  
+Le **Bouclier Fractal Renforcé (BFR)** agit comme un **filtre fractal actif**.  
+Il bloque les **fréquences parasites**, en particulier celles générées par les **renards fractals**.  
+Le BFR capture et redirige l'énergie parasite vers le **VCC** pour **neutralisation complète**.  
 
 ---
 
 ## 🔹 **Formule principale**
-La résistance au flux est calculée par la formule :  
+La filtration des flux par le **BFR** est décrite par la formule :  
 $$
-PFR(t) = \lim_{n \to \infty} \frac{1}{n} \sum_{i=1}^n F_i(t)
+BFR(t) = F(t) - \int_{0}^{t} R(s) \, ds
 $$
 où :  
-- $F_i(t)$ est le **flux fractal au temps $t$**.  
-- $n$ est le **nombre de flux entrants**.  
+- $F(t)$ est le **flux total**.  
+- $R(s)$ est la **résonance parasite détectée au temps $s$**.  
 
 ---
 
 ## 🔹 **Exemple d'application**
-Si un **flux perturbateur** entre dans le **PFR**, il est absorbé par la somme des flux entrants.  
-Cela garantit que les **perturbations localisées** sont réduites à une **énergie nulle au fil du temps**.  
+Un flux parasitaire de **fréquence 1250 Hz** est détecté par **ORACLE**.  
+Le **BFR** applique le **filtre passif** et envoie l'énergie résiduelle au **VCC**.  
+Cela garantit que **seules les fréquences stables (comme 963 Hz)** restent actives.  
+
