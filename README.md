@@ -51,31 +51,62 @@ Tout le contenu (axiomes, théorèmes, modules, preuves, applications) est acces
 
 Pour toute suggestion ou contribution, veuillez utiliser l'onglet **Issues**.  
 
-# 📘 **Licence Creative Commons Attribution 4.0 International (CC BY 4.0)**
+## 📜 License
+
+The **Référentiel Fractal Ordos (RFO)** is protected by a **dual-license system** to ensure maximum protection for both its **code** and its **conceptual content** (theories, illustrations, definitions, and textual descriptions). This approach guarantees that the RFO remains accessible to the community while ensuring that its core concepts and implementations are not exploited for private commercial gain.
 
 ---
 
-## 📝 **Droits d'utilisation**
-Cette œuvre, intitulée **Référentiel Fractal Ordos (RFO)**, est sous licence **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
-Vous êtes libre de :  
-1. **Partager** — copier, distribuer et transmettre l’œuvre sous n’importe quel format.  
-2. **Adapter** — remixer, transformer et créer à partir de l’œuvre, y compris à des fins commerciales.  
+### **1️⃣ License for Code (GNU AGPL v3)**
+All **source code** of the RFO, including scripts, algorithms, and computational models, is licensed under the **GNU Affero General Public License v3 (AGPL v3)**. 
+
+#### 🔍 **What does this mean?**
+- **Open Source Forever**: Any software or service built using the RFO's code **must remain open source**.  
+- **Web Services Must Share Source**: If a company creates an API, SaaS, or any service using RFO code, they must provide public access to their source code.  
+- **Protection Against Proprietary Capture**: No one can transform the RFO's code into a closed-source product or tool.  
+
+#### 📘 **Summary of AGPL v3 obligations**
+- If you modify, adapt, or distribute the code, you must **publish your changes**.  
+- If you build a web service using the code, you must **allow users to access the source code** of the service.  
+- The **core source code will always remain open** and protected by the AGPL v3.  
+
+To read the full terms of the AGPL v3 license, see the file [LICENSE_AGPL.md](./LICENSE_AGPL.md).  
 
 ---
 
-## 📜 **Conditions d'utilisation**
-Pour toute utilisation ou adaptation du contenu du **RFO**, les conditions suivantes doivent être respectées :  
-- **Attribution** — Vous devez créditer l’auteur de manière appropriée, fournir un lien vers la licence et indiquer si des modifications ont été apportées.  
-- **Pas de restrictions supplémentaires** — Vous ne pouvez pas appliquer des conditions légales ou des mesures techniques qui restreindraient légalement d'autres utilisateurs à faire ce qui est permis par la licence.  
+### **2️⃣ License for Concepts, Texts, and Illustrations (CC BY-NC-SA 4.0)**
+The **concepts, definitions, theories, textual content, and illustrations** of the RFO are licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
+
+#### 🔍 **What does this mean?**
+- **Attribution Required**: If you reuse any text, concept, or illustration from the RFO, you must **give credit to Simon Bouhier** and the **Référentiel Fractal Ordos (RFO)**.  
+- **No Commercial Use**: No one can use the RFO's concepts, definitions, or illustrations for commercial purposes.  
+- **Share-Alike Obligation**: If you adapt, remix, or modify these concepts, you must **share your modifications under the same license (CC BY-NC-SA 4.0)**.  
+
+#### 📘 **Summary of CC BY-NC-SA 4.0 obligations**
+- You are free to **copy, share, and adapt** the concepts and illustrations for non-commercial purposes.  
+- **Commercial use is strictly prohibited** without explicit permission from the author.  
+- Any modification or adaptation of the RFO concepts must be shared under the same license (CC BY-NC-SA 4.0).  
+
+To read the full terms of the CC BY-NC-SA 4.0 license, see the file [LICENSE_CC.md](./LICENSE_CC.md).  
 
 ---
 
-## ⚠️ **Remarque importante**
-Le **Référentiel Fractal Ordos (RFO)** est protégé par la présente licence, ce qui garantit la **traçabilité de l'antériorité des concepts, modules, axiomes, théorèmes et démonstrations**.  
-L'utilisation, la modification et la diffusion de ce contenu nécessitent le **respect de la clause d'attribution** pour assurer la reconnaissance de l'auteur d'origine.  
+### **3️⃣ Why a dual-license system?**
+This **dual-license strategy** is designed to create a **stable and secure fractal attractor** for the concepts and code of the **Référentiel Fractal Ordos (RFO)**. By using this two-layer protection:  
+- **The source code is always open-source** and no company can privatize or commercialize it (thanks to the **AGPL v3**).  
+- **The concepts, texts, and illustrations are freely available for learning and sharing**, but no one can profit from them commercially (thanks to **CC BY-NC-SA 4.0**).  
+
+This system creates a **secure vortex of capture** for all renards fractals (disruptive forces) while ensuring that the RFO remains an **open attractor for academic research**.  
+
+If you have any questions or would like to request special permissions, please contact **Simon Bouhier**.
 
 ---
 
-## 🔗 **Accès à la licence complète**
-Pour plus d’informations, veuillez consulter la version intégrale de la licence Creative Commons CC BY 4.0 à l'adresse suivante :  
-[🔗 Licence complète](https://creativecommons.org/licenses/by/4.0/legalcode)  
+### 📂 **File Structure of Licenses**
+Here is how the licenses are organized in this repository:  
+- 📄 **LICENSE.md** — Summary and explanation of the dual-license strategy.  
+- 📄 **LICENSE_AGPL.md** — Full text of the **AGPL v3 license** for the code.  
+- 📄 **LICENSE_CC.md** — Full text of the **CC BY-NC-SA 4.0 license** for the concepts, illustrations, and textual content.  
+
+By using or interacting with this repository, you **agree to the terms of these two licenses**.  
+**The vortex is stable. The renards fractals are captured. The flux is fluid.**  
