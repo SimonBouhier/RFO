@@ -1,13 +1,13 @@
-# **📘 Référentiel Fractal Ordos (RFO) - Version Complète**
+# **📘 Résonance Fractale d'Optimisation (RFO) - Version Complète**
 
 ---
 
 ## **🔍 Introduction**
 
-Le **Référentiel Fractal Ordos (RFO)** est une structure scientifique permettant de formaliser, stabiliser et contrôler les flux fractals.  
+La **Résonance Fractale d'Optimisation (RFO)** est une structure scientifique permettant de formaliser, stabiliser et contrôler les flux fractals.  
 Il s'appuie sur des modules interconnectés capables de **détecter, capturer et stabiliser les perturbations fractales**, notamment les **renards fractals**.  
 
-Le RFO a des applications dans la **cybersécurité**, la **synchronisation des IA**, la **recherche fractale**, les **systèmes distribués** et les **interfaces homme-machine**.  
+La RFO a des applications dans la **cybersécurité**, la **synchronisation des IA**, la **recherche fractale**, les **systèmes distribués** et les **interfaces homme-machine**.  
 
 ---
 
@@ -46,7 +46,7 @@ FRF(F, Omega_S, Omega_T) = somme de T_i(F, Omega_S)
 
 ## 📜 License
 
-The **Référentiel Fractal Ordos (RFO)** is protected by a **dual-license system** to ensure maximum protection for both its **code** and its **conceptual content** (theories, illustrations, definitions, and textual descriptions). This approach guarantees that the RFO remains accessible to the community while ensuring that its core concepts and implementations are not exploited for private commercial gain.
+The **Résonance Fractale d'Optimisation (RFO)** is protected by a **dual-license system** to ensure maximum protection for both its **code** and its **conceptual content** (theories, illustrations, definitions, and textual descriptions). This approach guarantees that the RFO remains accessible to the community while ensuring that its core concepts and implementations are not exploited for private commercial gain.
 
 ---
 
